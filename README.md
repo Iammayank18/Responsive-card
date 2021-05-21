@@ -20,6 +20,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./Screenshot.png)
+![](./SS2.png)
+![](./SS3.png)
 
 ### Links
 
