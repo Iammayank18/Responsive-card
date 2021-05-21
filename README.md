@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Iammayank18/Responsive-card)
-- Live Site URL: [Add live site URL here](https://responsive-card-jet.vercel.app/)
+- Solution URL: [solution URL](https://github.com/Iammayank18/Responsive-card)
+- Live Site URL: [live site URL](https://responsive-card-jet.vercel.app/)
 
 ### Built with
 
